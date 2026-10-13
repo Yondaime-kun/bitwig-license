@@ -1,0 +1,4 @@
+# root-anchored: a bare name would also ignore cmd/bitwig-license/
+/bitwig-license
+*.activation
+*.test
